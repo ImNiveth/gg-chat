@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background: url(pic_bg_1.jpg);
+}
+#Heading{
+    color: white;
+    font-size: 70px;
+    font-family: 'Silkscreen', cursive;
+}
+#Heading2, #Heading3, #lbl{
+    color: whitesmoke;
+    font-family: 'Silkscreen', cursive;
+}
+#login_div{
+    background-color: rgba(0, 180, 180, 0.500);
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 15px;
+    width: 625px;
+}
+#user_name{
+    width: 400px;
+}
+#login_button{
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+    font-family: 'Silkscreen', cursive;
+}
