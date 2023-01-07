@@ -1,0 +1,24 @@
+// Your web app's Firebase configuration
+
+const firebaseConfig = {
+
+  apiKey: "AIzaSyD-teqcN9Enn8NWq42nPGzQ2dK7GBOfUy0",
+
+  authDomain: "gg-chat-3692d.firebaseapp.com",
+
+  databaseURL: "https://gg-chat-3692d-default-rtdb.firebaseio.com",
+
+  projectId: "gg-chat-3692d",
+
+  storageBucket: "gg-chat-3692d.appspot.com",
+
+  messagingSenderId: "4456122137",
+
+  appId: "1:4456122137:web:8e039a1ce0c1519e1a6788"
+
+};
+
+
+// Initialize Firebase
+
+const app = initializeApp(firebaseConfig);
